@@ -1,6 +1,7 @@
 # OS X Files
 .DS_Store
 
+# Unity related directories to ignore IF we decide to use unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
